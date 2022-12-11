@@ -1,0 +1,48 @@
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\bin\Debug\Checksumator.exe.config
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\bin\Debug\Checksumator.exe
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\bin\Debug\Checksumator.pdb
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\obj\Debug\Checksumator.csprojAssemblyReference.cache
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\obj\Debug\MainWindow.g.cs
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\obj\Debug\App.g.cs
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\obj\Debug\Checksumator_MarkupCompile.cache
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\obj\Debug\Checksumator_MarkupCompile.lref
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\obj\Debug\MainWindow.baml
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\obj\Debug\Checksumator.g.resources
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\obj\Debug\Checksumator.Properties.Resources.resources
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\obj\Debug\Checksumator.csproj.GenerateResource.cache
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\obj\Debug\Checksumator.csproj.CoreCompileInputs.cache
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\obj\Debug\Checksumator.exe
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\obj\Debug\Checksumator.pdb
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\bin\Debug\Properties\Checksumator_background.png
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\bin\Debug\Properties\logo_checksum.png
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\bin\Debug\Properties\logo_checksum_icon.ico
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\bin\Debug\Properties\logo_checksum_removebg.png
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\bin\Debug\Properties\logo_checksum_removebg_black.png
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\bin\Debug\Properties\history_background.png
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\bin\Debug\Properties\chart_background.png
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\obj\Debug\Loading.g.cs
+C:\Users\vasca\Desktop\PRS 2022\Checksumator\Checksumator\obj\Debug\Loading.baml
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\bin\Debug\Properties\Checksumator_background.png
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\bin\Debug\Properties\logo_checksum.png
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\bin\Debug\Properties\logo_checksum_icon.ico
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\bin\Debug\Properties\logo_checksum_removebg.png
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\bin\Debug\Properties\logo_checksum_removebg_black.png
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\bin\Debug\Properties\history_background.png
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\bin\Debug\Properties\chart_background.png
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\bin\Debug\Checksumator.exe.config
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\bin\Debug\Checksumator.exe
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\bin\Debug\Checksumator.pdb
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\obj\Debug\Checksumator.csprojAssemblyReference.cache
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\obj\Debug\Loading.g.cs
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\obj\Debug\MainWindow.g.cs
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\obj\Debug\App.g.cs
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\obj\Debug\Checksumator_MarkupCompile.cache
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\obj\Debug\Checksumator_MarkupCompile.lref
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\obj\Debug\Loading.baml
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\obj\Debug\MainWindow.baml
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\obj\Debug\Checksumator.g.resources
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\obj\Debug\Checksumator.Properties.Resources.resources
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\obj\Debug\Checksumator.csproj.GenerateResource.cache
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\obj\Debug\Checksumator.csproj.CoreCompileInputs.cache
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\obj\Debug\Checksumator.exe
+D:\8. SEMESTAR (IV godina)\Paralelni računarski sistemi\PRS 2022\Checksumator\Checksumator\obj\Debug\Checksumator.pdb

@@ -1,0 +1,17 @@
+﻿<Window x:Name="Ucitavanje" x:Class="Checksumator.Loading"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Checksumator"
+        mc:Ignorable="d"
+        Title="Loading" Height="200" Width="400" WindowStartupLocation="CenterScreen" BorderBrush="Black" BorderThickness="3" WindowStyle="None" AllowsTransparency="True">
+    <Window.Background>
+        <ImageBrush ImageSource="pack://siteoforigin:,,,/Properties/Checksumator_background.png"/>
+    </Window.Background>
+    <Grid>
+        <Image x:Name="imgLogo" HorizontalAlignment="Left" Height="120" VerticalAlignment="Top" Width="120" Source="pack://siteoforigin:,,,/Properties/logo_checksum_removebg_black.png" Margin="135,0,0,0"/>
+        <Label x:Name="lblNaslov" Content="C h e c k s u m a t o r" HorizontalAlignment="Center" VerticalAlignment="Bottom" FontFamily="Consolas" FontWeight="Bold" FontSize="28" Width="394" Margin="0,0,0,58" HorizontalContentAlignment="Center"/>
+        <Label x:Name="lblUcitavanje" Content="Učitavanje" HorizontalAlignment="Center" VerticalAlignment="Bottom" FontFamily="Consolas" FontWeight="Bold" FontSize="40" Width="394"  HorizontalContentAlignment="Center" Margin="0,0,0,10"/>
+    </Grid>
+</Window>
